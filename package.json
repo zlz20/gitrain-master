@@ -2,6 +2,7 @@
   "name": "github-train",
   "version": "1.0.0",
   "description": "githubProTest",
+  "homepage":"https://yourid.github.io/yourproject",
   "peivate": true,
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
